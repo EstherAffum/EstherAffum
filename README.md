@@ -1,4 +1,5 @@
 # About Me
+👋 Hi there! I am Esther Dankwah Affum, a passionate Mathematics graduate and Data Analytics fellow. With a strong foundation in mathematical concepts and analytical thinking, I have developed a keen interest in data-informed decision-making.
 
 ## Enthusiastic Data Analyst | Storyteller Through Data
 
